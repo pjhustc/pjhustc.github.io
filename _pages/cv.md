@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Junhui is currently a postdoctoral researcher in <a href="https://zhaolab.rockefeller.edu">Zhao Lab at Rockefeller University</a>.
+
 Education
 ======
 * B.S. in Biology, University of Science and Technology of China, USTC, 2012
