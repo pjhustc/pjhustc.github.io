@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2025,
+    "type": "publication",
+    "title": "A predicted structural interactome reveals binding interference from intrinsically disordered regions",
+    "authors": "Junhui Peng†, Li Zhao†",
+    "journal": "PLOS Computational Biology",
+    "description": " We ran around 30K AlphaFold2 multimer predictions, analyzed the interaction details, and compiled our analysis into an interactive web platform. Want to explore the structure of protein-protein interactions in Drosophila? Check your favorite interactions at https://melppi.github.io",
+    "date": "01,22,2026",
+    "image": "Peng_DmelPPI_2025.jpg",
+    "link": "https://doi.org/10.1371/journal.pcbi.1013899"
+  },
+  {
+    "year": 2025,
+    "type": "publication",
+    "title": "Gene regulatory networks and essential transcription factors for de novo originated genes",
+    "authors": "Junhui Peng*, Bing-Jun Wang*, Nicolas Svetec†, Li Zhao†",
+    "journal": "Nature Ecology Evolution",
+    "description": "Born from scratch, <em>de novo</em> genes often may not have designated or preexisting cis-regulatory elements. Our work identifies key TFs that regulate their expression and suggests possible mechanisms of how they are incorporated into preexisting regulatory networks.",
+    "date": "07,14,2025",
+    "image": "Peng_NEE_2025.jpg",
+    "link": "https://doi.org/10.1038/s41559-025-02747-y"
+  },
+  {
+    "year": 2025,
+    "type": "seminar",
+    "title": "Junhui completed \"Tri-I Launching Your Undergraduate Science Teaching Career\" course",
+    "description": "Junhui attended the Spring 2025 course on Evidence-Based Teaching Practices for Scientists. In this course, topics include: (1) effective course design and assessments; (2) building research experiences with undergraduates; (3) inclusive mentoring, teaching, and learning.",
+    "date": "06,19,2025",
+    "event_title": "2025 Tri-I Launching Your Undergraduate Science Teaching Career",
+    "image": "Peng_TriICourse_2025.jpg"
+  }
+]
