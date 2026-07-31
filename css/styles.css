@@ -60,7 +60,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
-  gap: 3.6rem;
+  gap: 1.68rem;
 }
 @media (max-width: 768px) {
   .intro {
@@ -71,9 +71,10 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .profile-img {
-  width: 200px;
-  height: 200px;
-  border-radius: 100px;
+  width: 228px;
+  height: 228px;
+  border-radius: 112px;
+  display: block;
   object-fit: cover;
   flex-shrink: 0;
   align-self: center;
@@ -87,11 +88,11 @@ h1, h2, h3, h4, h5, h6 {
 .intro-text p {
   font-family: 'Inter', serif;
   /*font-weight: 400;*/
-  font-size: 1.16rem;
+  font-size: 1rem;
 }
 /* Align the entire highlights section under the intro text */
 .aligned-block {
-  margin-left: calc(200px + 3.6rem); /* profile image width + gap */
+  margin-left: calc(228px + 1.68rem); /* profile image width + gap */
 }
 /* Highlight section formatting */
 .highlights {
