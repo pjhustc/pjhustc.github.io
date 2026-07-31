@@ -18,13 +18,15 @@ Education
 
 Research experience
 ======
-* 2019-present: Postdoctoral Researcher at Rockefeller University, Supervisor: Professor Li Zhao
+* 2026-Present: Staff Scientistof Bioinformatics and Research Computing at The Herbert Wertheim UF Scripps Institute
+
+* 2019-2026: Postdoctoral Researcher at Rockefeller University, Supervisor: Professor Li Zhao
 
 * 2017-2019: Postdoctoral Researcher at Hong Kong University of Science and Technology, Supervisor: Professor Xuhui Huang
   
 Skills
 ======
-* Programming skills: Python, Bash, C
+* Programming skills: Python, Bash, C, R, Matlab
 
 Publications
 ======
